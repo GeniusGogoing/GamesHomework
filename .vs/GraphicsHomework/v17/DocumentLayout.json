@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Personal\\VSProjects\\CPPTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25140C69-85F7-4E43-A088-8D8AB25D0F81}|CPPTest\\CPPTest.vcxproj|G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment6\\PA6\\Assignment6\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25140C69-85F7-4E43-A088-8D8AB25D0F81}|CPPTest\\CPPTest.vcxproj|solutionrelative:CPPTest\\Assignment6\\PA6\\Assignment6\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25140C69-85F7-4E43-A088-8D8AB25D0F81}|CPPTest\\CPPTest.vcxproj|G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment5\\Code\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25140C69-85F7-4E43-A088-8D8AB25D0F81}|CPPTest\\CPPTest.vcxproj|solutionrelative:CPPTest\\Assignment5\\Code\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25140C69-85F7-4E43-A088-8D8AB25D0F81}|CPPTest\\CPPTest.vcxproj|G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment6\\PA6\\Assignment6\\Triangle.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25140C69-85F7-4E43-A088-8D8AB25D0F81}|CPPTest\\CPPTest.vcxproj|solutionrelative:CPPTest\\Assignment6\\PA6\\Assignment6\\Triangle.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25140C69-85F7-4E43-A088-8D8AB25D0F81}|CPPTest\\CPPTest.vcxproj|G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment6\\PA6\\Assignment6\\Bounds3.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25140C69-85F7-4E43-A088-8D8AB25D0F81}|CPPTest\\CPPTest.vcxproj|solutionrelative:CPPTest\\Assignment6\\PA6\\Assignment6\\Bounds3.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25140C69-85F7-4E43-A088-8D8AB25D0F81}|CPPTest\\CPPTest.vcxproj|G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment6\\PA6\\Assignment6\\BVH.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25140C69-85F7-4E43-A088-8D8AB25D0F81}|CPPTest\\CPPTest.vcxproj|solutionrelative:CPPTest\\Assignment6\\PA6\\Assignment6\\BVH.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25140C69-85F7-4E43-A088-8D8AB25D0F81}|CPPTest\\CPPTest.vcxproj|G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment6\\PA6\\Assignment6\\BVH.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25140C69-85F7-4E43-A088-8D8AB25D0F81}|CPPTest\\CPPTest.vcxproj|solutionrelative:CPPTest\\Assignment6\\PA6\\Assignment6\\BVH.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25140C69-85F7-4E43-A088-8D8AB25D0F81}|CPPTest\\CPPTest.vcxproj|G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment6\\PA6\\Assignment6\\Sphere.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25140C69-85F7-4E43-A088-8D8AB25D0F81}|CPPTest\\CPPTest.vcxproj|solutionrelative:CPPTest\\Assignment6\\PA6\\Assignment6\\Sphere.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25140C69-85F7-4E43-A088-8D8AB25D0F81}|CPPTest\\CPPTest.vcxproj|G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment6\\PA6\\Assignment6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25140C69-85F7-4E43-A088-8D8AB25D0F81}|CPPTest\\CPPTest.vcxproj|solutionrelative:CPPTest\\Assignment6\\PA6\\Assignment6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25140C69-85F7-4E43-A088-8D8AB25D0F81}|CPPTest\\CPPTest.vcxproj|G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment5\\Code\\Triangle.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25140C69-85F7-4E43-A088-8D8AB25D0F81}|CPPTest\\CPPTest.vcxproj|solutionrelative:CPPTest\\Assignment5\\Code\\Triangle.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment6\\PA6\\Assignment6\\models\\bunny\\bunny.obj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CPPTest\\Assignment6\\PA6\\Assignment6\\models\\bunny\\bunny.obj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Renderer.cpp",
+              "DocumentMoniker": "G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment6\\PA6\\Assignment6\\Renderer.cpp",
+              "RelativeDocumentMoniker": "CPPTest\\Assignment6\\PA6\\Assignment6\\Renderer.cpp",
+              "ToolTip": "G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment6\\PA6\\Assignment6\\Renderer.cpp",
+              "RelativeToolTip": "CPPTest\\Assignment6\\PA6\\Assignment6\\Renderer.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T04:21:21.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Renderer.cpp",
+              "DocumentMoniker": "G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment5\\Code\\Renderer.cpp",
+              "RelativeDocumentMoniker": "CPPTest\\Assignment5\\Code\\Renderer.cpp",
+              "ToolTip": "G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment5\\Code\\Renderer.cpp*",
+              "RelativeToolTip": "CPPTest\\Assignment5\\Code\\Renderer.cpp*",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAmwLIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T04:08:35.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bounds3.hpp",
+              "DocumentMoniker": "G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment6\\PA6\\Assignment6\\Bounds3.hpp",
+              "RelativeDocumentMoniker": "CPPTest\\Assignment6\\PA6\\Assignment6\\Bounds3.hpp",
+              "ToolTip": "G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment6\\PA6\\Assignment6\\Bounds3.hpp",
+              "RelativeToolTip": "CPPTest\\Assignment6\\PA6\\Assignment6\\Bounds3.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAIA2wDIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T11:28:02.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bunny.obj",
+              "DocumentMoniker": "G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment6\\PA6\\Assignment6\\models\\bunny\\bunny.obj",
+              "RelativeDocumentMoniker": "CPPTest\\Assignment6\\PA6\\Assignment6\\models\\bunny\\bunny.obj",
+              "ToolTip": "G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment6\\PA6\\Assignment6\\models\\bunny\\bunny.obj",
+              "RelativeToolTip": "CPPTest\\Assignment6\\PA6\\Assignment6\\models\\bunny\\bunny.obj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQBSURBVEhLpVVbLNxpFD8zU6FxCcKiWYvlxXoQEimJjei6BAmGSESpS12SsVIhq4iJepq4ZCNUVkRoRJqYsk\u002B88LCykXgQYtYl6jrUNjtiZrFu29Znz/k7akZXM6lf8s3/\u002B5/vfy7fOb9zBj4HlUoVe3R0ZDg8PNyvr69PY7H1OD8/592nKCgoeICGlxcXF8Xc3JxAR/ry8vJkPr4d1Gq1Eo2/IcMlJSUiLy9PTE1NCZT92dLS8pA/\u002BzIUFRX9gIbeIgTuRXR0tLTIydraGt3EWFtbq5TJZKzxeSj4KYGMt7a2/qLX679pbGyE1dVVPgHY39\u002BH\u002Bfl5CAgIuJuSknL/9PRUPzk5\u002BZqPITc39/vj4\u002BN3JpPpkEWW4LS8RSNSWi4jv746OzvpFrResSr09/eXou729PT0C1tb2zssliCnHypodXV128HBgWdbWxssLy9Lh\u002BaQy\u002BWADiAnJ4fIoYuMjFS7u7t/1d7eXqJUKptOTk7u4e0eGY3Gl05OTndZDWRExaampo6NjY0AMm6elksoFAqIiYmhQMDe3p6lV0AyQG9vL4SHh0N6ejosLS31ZWVlPUVbBhledWdzc9MNcw8rKyusYgkqqJeXFzg6OrLEEgaDAfb29sDOzg5SU1MhOzv7XzSuDQ4OziUHB\u002Bvr6w5IP9ja2mKVC1DkLi4u0hO/A8wzeHh48OlF4bHY/HaF4uJiSE5OplS\u002BUNjY2LxOSkq67\u002B/v70y5JyUC5Tw2NhaQkpCRkQFCCNDpdDAwMADIIvD19ZVqRZGbw8fHBxISEsDNzW2zubn5ubyhoeHXurq6J4GBgX/hE/z8/KQPo6KiID8/HxwcHH6XBNcwMzMDSGd\u002BuwDpkg229YRs8xEApigLU2CanZ29pOIHTNlvQUFBX\u002BNeYBElmtL\u002Bcmk0GhEXFyfJqRFJl2yQLTZriZqaGiUqbpAyFm4cFb8jOb3/nwP8RmAaRGFhocAeEP8g0MbNQ5HYUlFRkYJRaL29vV1ZfKMDWru7u4LGCu1R7/3CwsLPrGY9SPkmB7SQhaKqqkoMDw/TLcTo6KjG1dVVahiLtrYGXV1dvLsCNRo2qtSkZ2dn1JSq7u7uD2lpaWqrRiJFqdVqoa\u002BvjyU3A2kPOMsgPj7\u002B3c7OTqfVDnj7EZh3wDkkRW8OZ2dn\u002BieEiIiIv8fHxzVWOcBR/Ji30NHRoUIyhNDsGRoaYukFPD09obS0FEJCQkw9PT3PysrKnvOR9QgNDfXDG/2BHSwqKyulwtPCiSomJiaISQIdV\u002BB4kSb1FyEzMzMC86vb3t4WyHuBo0SMjY0Ro3YHBwcr\u002BbPbITExMRijnSaK4tigyI1Ykx9vFfl1hIWFfYtRL\u002BBf5fnIyMhPLDYDwH\u002B2no8FQKKllQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-18T12:40:50.966Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Triangle.hpp",
+              "DocumentMoniker": "G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment5\\Code\\Triangle.hpp",
+              "RelativeDocumentMoniker": "CPPTest\\Assignment5\\Code\\Triangle.hpp",
+              "ToolTip": "G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment5\\Code\\Triangle.hpp",
+              "RelativeToolTip": "CPPTest\\Assignment5\\Code\\Triangle.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-24T03:53:54.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sphere.hpp",
+              "DocumentMoniker": "G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment6\\PA6\\Assignment6\\Sphere.hpp",
+              "RelativeDocumentMoniker": "CPPTest\\Assignment6\\PA6\\Assignment6\\Sphere.hpp",
+              "ToolTip": "G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment6\\PA6\\Assignment6\\Sphere.hpp",
+              "RelativeToolTip": "CPPTest\\Assignment6\\PA6\\Assignment6\\Sphere.hpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAIA2wC4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T13:46:44.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BVH.cpp",
+              "DocumentMoniker": "G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment6\\PA6\\Assignment6\\BVH.cpp",
+              "RelativeDocumentMoniker": "CPPTest\\Assignment6\\PA6\\Assignment6\\BVH.cpp",
+              "ToolTip": "G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment6\\PA6\\Assignment6\\BVH.cpp*",
+              "RelativeToolTip": "CPPTest\\Assignment6\\PA6\\Assignment6\\BVH.cpp*",
+              "ViewState": "AQIAAGEAAAAAAAAAAIA2wIEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T12:48:30.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BVH.hpp",
+              "DocumentMoniker": "G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment6\\PA6\\Assignment6\\BVH.hpp",
+              "RelativeDocumentMoniker": "CPPTest\\Assignment6\\PA6\\Assignment6\\BVH.hpp",
+              "ToolTip": "G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment6\\PA6\\Assignment6\\BVH.hpp",
+              "RelativeToolTip": "CPPTest\\Assignment6\\PA6\\Assignment6\\BVH.hpp",
+              "ViewState": "AQIAAB8AAAAAAAAAAIA2wDQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T12:48:52.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{85201848-e430-4035-8649-f412b84d4778}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle.hpp",
+              "DocumentMoniker": "G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment6\\PA6\\Assignment6\\Triangle.hpp",
+              "RelativeDocumentMoniker": "CPPTest\\Assignment6\\PA6\\Assignment6\\Triangle.hpp",
+              "ToolTip": "G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment6\\PA6\\Assignment6\\Triangle.hpp*",
+              "RelativeToolTip": "CPPTest\\Assignment6\\PA6\\Assignment6\\Triangle.hpp*",
+              "ViewState": "AQIAAM0AAAAAAAAAAIA2wNsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-18T12:18:02.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.cpp",
+              "DocumentMoniker": "G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment6\\PA6\\Assignment6\\main.cpp",
+              "RelativeDocumentMoniker": "CPPTest\\Assignment6\\PA6\\Assignment6\\main.cpp",
+              "ToolTip": "G:\\Personal\\VSProjects\\CPPTest\\CPPTest\\Assignment6\\PA6\\Assignment6\\main.cpp",
+              "RelativeToolTip": "CPPTest\\Assignment6\\PA6\\Assignment6\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-18T12:17:38.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
